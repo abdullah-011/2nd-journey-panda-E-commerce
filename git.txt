@@ -1,0 +1,7 @@
+echo "# 2nd-journey-panda-E-commerce" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/abdullah-011/2nd-journey-panda-E-commerce.git
+git push -u origin master
+                
